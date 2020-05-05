@@ -12,7 +12,7 @@ function Plan({ subscriptionPlan }) {
 				<p className='text-center font-medium text-white my-5'>
 					{description}
 				</p>
-				<button className='bg-green-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>
+				<button className='bg-green-700 hover:bg-white hover:text-green-700 text-white font-bold py-2 pb-3 px-4 rounded'>
 					Sign up
 				</button>
 			</div>
